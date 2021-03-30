@@ -1,0 +1,16 @@
+PODS:
+  - TestLib (0.1.0)
+
+DEPENDENCIES:
+  - TestLib (from `../`)
+
+EXTERNAL SOURCES:
+  TestLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestLib: 3b4a5b0c06b4e3e92e1f84ca952cfb00421799cf
+
+PODFILE CHECKSUM: bb6db4d101cd667490370072960542806e8932ca
+
+COCOAPODS: 1.9.1
