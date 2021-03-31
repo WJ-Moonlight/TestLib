@@ -1,5 +1,5 @@
 PODS:
-  - TestLib (0.1.0)
+  - TestLib (0.1.3)
 
 DEPENDENCIES:
   - TestLib (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  TestLib: 3b4a5b0c06b4e3e92e1f84ca952cfb00421799cf
+  TestLib: a9c532e95f7f1e4f85092c67027a3c0babba5957
 
 PODFILE CHECKSUM: bb6db4d101cd667490370072960542806e8932ca
 

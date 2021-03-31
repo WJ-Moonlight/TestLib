@@ -8,7 +8,7 @@
 
 import Foundation
 
-func hello() {
+public func hello() {
     print("This is a test lib")
 }
 func hello013() {
