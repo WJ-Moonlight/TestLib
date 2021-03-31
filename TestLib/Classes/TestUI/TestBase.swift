@@ -7,3 +7,7 @@
 //
 
 import Foundation
+
+func hello() {
+    print("This is a test lib")
+}
